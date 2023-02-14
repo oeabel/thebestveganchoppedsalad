@@ -24,6 +24,14 @@
     max-width: 100%;
   }
 
+.card {
+    width: 18rem;
+    text-align: center;
+    color: white;
+    background-color: #635985;
+    font-family: Gabriola;
+}
+
 .footer {
     background-color: #443C68;
     text-align: center;
@@ -31,4 +39,8 @@
     padding-bottom: 5px;
     color: white;
     line-height: .3;
+}
+
+.btncss {
+    background-color: white;
 }
