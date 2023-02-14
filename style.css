@@ -16,3 +16,19 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.no-padding {
+    opacity: 50%;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 100%;
+  }
+
+.footer {
+    background-color: #443C68;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    color: white;
+    line-height: .3;
+}
