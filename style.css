@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #393053;
+}
+
+.navbar-brand, .offcanvas-title, .nav-link {
+    color: #E8E2E2;
+    font-family: Antic;
+}
+
+.offcanvas-body {
+    background-color: #443C68;
+}
+
+.bnr {
+    background-color: #635985;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
