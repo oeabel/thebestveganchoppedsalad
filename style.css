@@ -7,6 +7,10 @@
     font-family: Antic;
 }
 
+.navbar-toggler {
+    background-color: white;
+}
+
 .offcanvas-body {
     background-color: #443C68;
 }
@@ -17,19 +21,26 @@
     padding-bottom: 50px;
 }
 
+.container-fluid {
+    padding: 0px;
+    height: 250px;
+}
+
 .no-padding {
-    opacity: 50%;
-    padding-left: 0;
-    padding-right: 0;
-    max-width: 100%;
+    background-image: url('images/salad_1_resize.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
   }
 
-.card {
-    width: 18rem;
+.row {
     text-align: center;
-    color: white;
-    background-color: #635985;
+    color: black;
     font-family: Gabriola;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .footer {
