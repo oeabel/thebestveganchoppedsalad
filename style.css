@@ -23,7 +23,6 @@
 
 .container-fluid {
     padding: 0px;
-    height: 250px;
 }
 
 .no-padding {
@@ -41,6 +40,13 @@
     font-weight: bold;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.col-sm {
+    border-radius: 25px;
+    border-style: solid;
+    border-color: black;
+    background-color: #EEF1FF;
 }
 
 .footer {
